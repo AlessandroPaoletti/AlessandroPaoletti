@@ -8,7 +8,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1f6feb" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=500&color=1F6FEB&width=435&lines=Hello%2C+It's+Alessandro+Paoletti+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=1F6FEB&width=435&lines=Hello%2C+It's+Alessandro+Paoletti+%F0%9F%A7%91%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;Software+Engineer" alt="Typing SVG" />
 </a>
 
 <div>
