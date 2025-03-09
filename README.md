@@ -23,3 +23,12 @@ Driven software engineer with a focus on continuous learning and collaborative d
 
 ### Development IDEs
 [![Learning](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,rider)](https://skillicons.dev)
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/alessandro-paoletti-se/">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="35" height="35"/>
+    </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1F6FEB&section=footer" alt="footer"/>
