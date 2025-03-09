@@ -15,6 +15,7 @@
     <img src="./assets/about_alessandro_paoletti.gif" alt="About Me Terminal GIF"/>
 </div>
 
+<br/>
 ![Profile views](https://komarev.com/ghpvc/?username=alessandropaoletti&label=Profile%20views&color=1f6feb&style=flat)
 
 ### My mission
