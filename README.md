@@ -19,7 +19,7 @@
 Driven software engineer with a focus on continuous learning and collaborative development. Exploring and applying architectural principles like Clean Architecture to build robust and well-structured applications. Open to contributing to innovative projects and sharing knowledge.
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,flask,github,git,mysql,sqlite,stackoverflow,eclipse,java,js,nodejs,react,cpp,cs,dotnet,html,css,bootstrap,php,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,py,flask,github,git,mysql,sqlite,stackoverflow,eclipse,java,js,nodejs,react,cpp,html,css,bootstrap,php,postman,docker)](https://skillicons.dev)
 
 ### Development IDEs
 [![Learning](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,rider)](https://skillicons.dev)
