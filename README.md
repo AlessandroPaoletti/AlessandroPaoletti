@@ -24,14 +24,31 @@ Driven software engineer with a focus on continuous learning and collaborative d
 ### Development IDEs
 [![Learning](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,rider)](https://skillicons.dev)
 
+## Learning Journey
+
+I'm on a continuous learning journey to expand my skillset and explore new frontiers in software development.  Currently, I'm diving into the exciting world of:
+
+*   **Artificial Intelligence (AI):**  Exploring fundamental concepts, machine learning algorithms, and practical applications of AI.
+*   **Dash (Python):**  Developing interactive data visualizations and dashboards with Dash, making data more accessible and engaging.
+
+To solidify my understanding, I'm actively working on personal projects that leverage these technologies.  Stay tuned for updates!
+
 ### Connect with me!
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/alessandro-paoletti-se/"><img src="./assets/logos/linkedin.svg" alt="LinkedIn" width="35" height="35"/></a></td>
-    <td><a href="https://discordapp.com/users/614749015879319565"><img src="./assets/logos/discord.svg" alt="Discord" width="35" height="35"/></a></td>
-    <td><a href="https://t.me/alessandropaole"><img src="./assets/logos/telegram.svg" alt="Telegram" width="35" height="35"/></a></td>
+    <td>
+        <a href="https://www.linkedin.com/in/alessandro-paoletti-se/"><img src="./assets/logos/linkedin.svg" alt="LinkedIn" width="35" height="35"/></a>
+    </td>
+    <td>
+        <a href="https://discordapp.com/users/614749015879319565"><img src="./assets/logos/discord.svg" alt="Discord" width="35" height="35"/></a>
+    </td>
+    <td>
+        <a href="https://t.me/alessandropaole"><img src="./assets/logos/telegram.svg" alt="Telegram" width="35" height="35"/></a>
+    </td>
+    <td>
+        <a href="mailto:alessandro.paoletti14@gmail.com"><img src="./assets/logos/email.svg" alt="Email" width="35" height="35"/></a>
+    </td>
   </tr>
 </table>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1F6FEB&section=footer" alt="footer"/>
