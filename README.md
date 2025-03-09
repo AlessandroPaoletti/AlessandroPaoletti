@@ -15,6 +15,8 @@
     <img src="./assets/about_alessandro_paoletti.gif" alt="About Me Terminal GIF"/>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=alessandropaoletti&label=Profile%20views&color=1f6feb&style=flat)
+
 ### My mission
 Driven software engineer with a focus on continuous learning and collaborative development. Exploring and applying architectural principles like Clean Architecture to build robust and well-structured applications. Open to contributing to innovative projects and sharing knowledge.
 
