@@ -24,7 +24,7 @@ Driven software engineer with a focus on continuous learning and collaborative d
 ### Development IDEs
 [![Learning](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,rider)](https://skillicons.dev)
 
-## Learning Journey
+### Learning Journey
 
 I'm on a continuous learning journey to expand my skillset and explore new frontiers in software development.  Currently, I'm diving into the exciting world of:
 
