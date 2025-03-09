@@ -27,8 +27,14 @@ Driven software engineer with a focus on continuous learning and collaborative d
 ### Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/alessandro-paoletti-se/">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="35" height="35"/>
+        <img src="./assets/logos/linkedin.svg" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://discordapp.com/users/614749015879319565">
+        <img src="./assets/logos/discord.svg" alt="Discord" width="35" height="35"/>
+    </a>
+    <a href="https://t.me/alessandropaole">
+        <img src="./assets/logos/telegram.svg" alt="Telegram" width="35" height="35"/>
     </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=1F6FEB&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1F6FEB&section=footer" alt="footer"/>
